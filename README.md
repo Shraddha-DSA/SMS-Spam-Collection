@@ -1,12 +1,13 @@
 📂 **SMS Spam Detection using SVM**
+
 This project applies Support Vector Machine (SVM) for classifying SMS messages as Spam or Ham (Not Spam) using the SMS Spam Collection Dataset.
 
 📊 **Dataset**
-Name: SMS Spam Collection
-Source: UCI Machine Learning Repository
-Format: Tab-separated file with two columns:
-label: Spam or Ham
-message: SMS text content
+- Name: SMS Spam Collection
+- Source: UCI Machine Learning Repository
+- Format: Tab-separated file with two columns:
+- label: Spam or Ham
+- message: SMS text content
 
 🔍 **Project Workflow**
 - Data Loading
